@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **some Web Development Projects.**
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642..."
-
 - 🌱 I’m currently learning **DSA.**
 
 - 📫 How to reach me **nishtharani0@gmail.com**
