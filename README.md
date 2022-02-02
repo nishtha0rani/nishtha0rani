@@ -1,4 +1,4 @@
-<img  alt="banner" width="100%" src="https://image.shutterstock.com/image-illustration/web-development-coding-concept-banner-260nw-1955634814.jpg">
+<img  alt="banner" width="100%" src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg">
 
 <h1 align="center">Hi 👋, I'm Nishtha Rani</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishtha0rani&label=Profile%20views&color=0e75b6&style=flat" alt="nishtha0rani" /> </p>
 
+<b> A little more about me... </b>
 - 🔭 I’m currently working on **some Web Development Projects.**
 
 - 🌱 I’m currently learning **DSA.**
