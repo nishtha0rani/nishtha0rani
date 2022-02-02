@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishtha Rani</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishtha0rani&label=Profile%20views&color=0e75b6&style=flat" alt="nishtha0rani" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishtha0rani" alt="nishtha0rani" /></a> </p>
 
 - 🔭 I’m currently working on **some Web Development Projects.**
@@ -27,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishtha0rani&show_icons=true&locale=en" alt="nishtha0rani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishtha0rani&" alt="nishtha0rani" /></p>
-
