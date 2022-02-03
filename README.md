@@ -1,4 +1,3 @@
-<img  alt="banner" width="100%" src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg">
 
 <h1 align="center">Hi 👋, I'm Nishtha Rani</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
